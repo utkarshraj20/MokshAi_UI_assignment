@@ -1,0 +1,28 @@
+
+/* ----------------------div1--------------------- */
+
+.div1{
+    height: 500px;
+    background-image: url("ninelives-cat1.jpg");
+}
+
+.div1 h1{
+    padding-top: 300px;
+    font-size: 70px;
+    float: left;
+}
+
+/* --------------------------div2---------------------- */
+
+.div2{
+    padding: 15px 70px;
+}
+
+.div2 img{
+    height: 350px;
+    width: 90%;
+}
+
+.div3{
+    text-align: center;
+}

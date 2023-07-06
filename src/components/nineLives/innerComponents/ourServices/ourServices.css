@@ -1,0 +1,29 @@
+.div31{
+  margin-left: 300px;
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+  background-color: aqua;
+  height: 250px;
+  width: 250px;
+  border: 1px black;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  margin-bottom: 300px;
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+img{
+  height: 250px;
+  width: 250px;
+}
